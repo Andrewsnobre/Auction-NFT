@@ -1,6 +1,6 @@
 # NFTeam Smart Contracts
 
-[![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://holonic.atlassian.net/wiki/spaces/PODNFT/pages/765755393/Blockchain+Technologies)
+
 
 ![Develop](https://github.com/holonic-pod/smartcontracts-nfteam-01/actions/workflows/tests.yaml/badge.svg)
 
